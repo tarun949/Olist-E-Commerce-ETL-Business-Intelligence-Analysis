@@ -105,7 +105,7 @@ To avoid double-counting, one-to-many tables such as `order_items` and `order_re
 
 ---
 
-## 📊 SQL Analytical Views
+##  SQL Analytical Views
 
 Six main SQL views were created:
 
@@ -170,7 +170,7 @@ Used for:
 
 ---
 
-## 📈 Key Business Questions
+##  Key Business Questions
 
 The SQL and Power BI analysis were designed to answer:
 
@@ -203,7 +203,7 @@ The dashboard tracks:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The project dashboard is divided into four major pages.
 
@@ -284,7 +284,7 @@ Focuses on logistics and operational performance.
 
 ---
 
-## 🔎 Business Insights
+##  Business Insights
 
 The project is designed to identify insights such as:
 
@@ -299,7 +299,7 @@ The final insights should be interpreted together with the dashboard filters and
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology           | Purpose                                            |
 | -------------------- | -------------------------------------------------- |
@@ -314,7 +314,7 @@ The final insights should be interpreted together with the dashboard filters and
 | **Jupyter Notebook** | Development and analysis                           |
 
 
-## 🚀 Project Workflow
+## Project Workflow
 
 ```text
 1. Import raw CSV files into Python
@@ -333,7 +333,7 @@ The final insights should be interpreted together with the dashboard filters and
 
 ---
 
-## 💡 Business Recommendations Framework
+##  Business Recommendations Framework
 
 Based on the final results, recommendations can focus on:
 
@@ -359,7 +359,7 @@ Investigate categories where freight cost represents a large proportion of produ
 
 ---
 
-## 📌 Project Outcome
+##  Project Outcome
 
 This project demonstrates an end-to-end analytics workflow rather than only a dashboard.
 
@@ -375,13 +375,13 @@ It showcases the ability to:
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 **Python | Pandas | NumPy | EDA | Data Cleaning | Feature Engineering | SQL | PostgreSQL | ETL | Data Modeling | Power BI | Data Visualization | Business Analysis**
 
 ---
 
-## 📚 Dataset
+##  Dataset
 
 **Olist Brazilian E-Commerce Public Dataset**
 
